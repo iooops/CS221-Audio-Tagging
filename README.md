@@ -10,4 +10,5 @@ Reference:
 
 Name        | Link | With Paper          | With Code     |
 ------------|--------|------------------|-----------------------|
-Intra-word  | emphasis | So A\*maz\*ing   | So A<em>maz</em>ing   |
+GENERAL-PURPOSE TAGGING OF FREESOUND AUDIO WITH AUDIOSET LABELS:
+TASK DESCRIPTION, DATASET, AND BASELINE | https://arxiv.org/pdf/1807.09902.pdf | Yes   | No   |
