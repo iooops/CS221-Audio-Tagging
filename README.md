@@ -8,6 +8,6 @@ https://www.kaggle.com/c/freesound-audio-tagging/data
 
 Reference:
 
-Name        | With Paper          | With Code     |
---------------------|------------------|-----------------------|
-Intra-word emphasis | So A\*maz\*ing   | So A<em>maz</em>ing   |
+Name        | Link | With Paper          | With Code     |
+------------|--------|------------------|-----------------------|
+Intra-word  | emphasis | So A\*maz\*ing   | So A<em>maz</em>ing   |
