@@ -8,6 +8,8 @@ https://www.kaggle.com/c/freesound-audio-tagging/data
 
 ## Some articles that might be useful:
 
+[Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data)
+
 [Types of classification algorithms in Machine Learning](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14)
 
 [Autotags](http://www-labs.iro.umontreal.ca/~pift6080/H09/documents/autotags.pdf)
