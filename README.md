@@ -29,3 +29,4 @@ End-to-end learning for music audio tagging at scale | http://www.jordipons.me/a
 Automatic Tagging of Audio: The State-of-the-Art | http://tbertinmahieux.com/Papers/machineaudition10.pdf | Yes | No | SVM, Boosting, Gaussian mixture, HGMM |
 Music Auto-Tagger | https://github.com/keunwoochoi/music-auto_tagging-keras#credits | Yes | Yes | CNN, CRNN
 Kaggle - Freesound General-Purpose Audio Tagging Challenge | https://github.com/sainathadapa/kaggle-freesound-audio-tagging | Yes | Yes | MobileNetV2? |
+A Survey of Sound Classification Using Classic Methods and Deep Learning | https://web.stanford.edu/class/cs221/2018/restricted/posters/franalli/poster.pdf | Yes(poster) | No | KNN, SVM, Random Forest, CNN
