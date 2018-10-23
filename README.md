@@ -16,7 +16,7 @@ https://www.kaggle.com/c/freesound-audio-tagging/data
 
 
 ## Handy Libraries
-[librosa](https://librosa.github.io/librosa/feature.html)
+[Librosa](https://librosa.github.io/librosa/feature.html)
 
 
 ## Reference:
