@@ -14,6 +14,8 @@ https://www.kaggle.com/c/freesound-audio-tagging/data
 
 [Autotags](http://www-labs.iro.umontreal.ca/~pift6080/H09/documents/autotags.pdf)
 
+[librosa](https://librosa.github.io/librosa/feature.html)
+
 
 ## Reference:
 
