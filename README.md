@@ -14,6 +14,9 @@ https://www.kaggle.com/c/freesound-audio-tagging/data
 
 [Autotags](http://www-labs.iro.umontreal.ca/~pift6080/H09/documents/autotags.pdf)
 
+[How to teach Neural Networks to detect everyday sounds](https://www.skcript.com/svr/building-audio-classifier-nueral-network/)
+
+[Sound Classification](http://www.nyu.edu/classes/bello/ACA_files/8-classification.pdf)
 
 ## Handy Libraries
 [Librosa](https://librosa.github.io/librosa/feature.html)
@@ -29,4 +32,5 @@ End-to-end learning for music audio tagging at scale | http://www.jordipons.me/a
 Automatic Tagging of Audio: The State-of-the-Art | http://tbertinmahieux.com/Papers/machineaudition10.pdf | Yes | No | SVM, Boosting, Gaussian mixture, HGMM |
 Music Auto-Tagger | https://github.com/keunwoochoi/music-auto_tagging-keras#credits | Yes | Yes | CNN, CRNN
 Kaggle - Freesound General-Purpose Audio Tagging Challenge | https://github.com/sainathadapa/kaggle-freesound-audio-tagging | Yes | Yes | MobileNetV2? |
-A Survey of Sound Classification Using Classic Methods and Deep Learning | https://web.stanford.edu/class/cs221/2018/restricted/posters/franalli/poster.pdf | Yes(poster) | No | KNN, SVM, Random Forest, CNN
+A Survey of Sound Classification Using Classic Methods and Deep Learning | https://web.stanford.edu/class/cs221/2018/restricted/posters/franalli/poster.pdf | Yes(poster) | No | KNN, SVM, Random Forest, CNN |
+Urban Sound Classification | https://github.com/aqibsaeed/Urban-Sound-Classification | Yes | Yes | CNN |
