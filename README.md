@@ -28,6 +28,8 @@ This is a repo for CS221 Audio Tagging Project.
 
 Name        | Link | With Paper          | With Code     | Methods Used |
 ------------|--------|------------------|-----------------------|--------|
+A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals | http://ismir2012.ismir.net/event/papers/559_ISMIR_2012.pdf | Yes | No |  |
+Instrument-Classification-of-IRMAS-Dataset | https://github.com/iooops/Instrument-Classification-of-IRMAS-Dataset | Yes | Yes | Bagging, Random Forest, Decision Tree Classifier, Naive Bayes, K nearest neighbours |
 General-purpose Tagging Of Freesound Audio With Audioset Labels | https://arxiv.org/pdf/1807.09902.pdf | Yes   | No   | CNN |
 Audio Tagging With Connectionist Temporal Classification Model Using Sequential Labelled Data | https://arxiv.org/abs/1808.01935 | Yes | No | CRNN, CTC |
 End-to-end learning for music audio tagging at scale | http://www.jordipons.me/apps/music-audio-tagging-at-scale-demo/ | Yes | Yes | CNN | 
