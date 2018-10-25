@@ -22,7 +22,7 @@ This is a repo for CS221 Audio Tagging Project.
 
 ## Handy Libraries
 [Librosa](https://librosa.github.io/librosa/feature.html)
-
+[fasst for audio source seperation](http://fasst.gforge.inria.fr/)
 
 ## Reference:
 
