@@ -3,10 +3,12 @@ This is a repo for CS221 Audio Tagging Project.
 
 
 ## DATA
-https://www.kaggle.com/c/freesound-audio-tagging/data
+[IRMAS](https://zenodo.org/record/1290750#.W9EaY1JRe_v)
 
 
 ## Some articles that might be useful:
+
+[IRMAS Website with a paper and a Phd thesis](https://zenodo.org/record/1290750#.W9F5mFJRe_v)
 
 [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/fizzbuzz/beginner-s-guide-to-audio-data)
 
